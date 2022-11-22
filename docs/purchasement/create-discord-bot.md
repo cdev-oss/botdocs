@@ -4,7 +4,7 @@
 Visit Discord Developer Portal here: https://discord.com/developers/applications
 
 ## Full Tutorial
-<video src="https://public-resource.cdev.shop/create%20discord%20bot.compressed.1.mp4" controls="controls">
+<video src="https://cdn.cdev.shop/official/7G8Qt-Y4s.mp4" controls="controls">
 </video>
 
 ## Verbatim

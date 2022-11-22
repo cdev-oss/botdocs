@@ -4,7 +4,7 @@
 Visit our Discord Server through our URLs: https://discord.cdev.shop
 
 ## Full tutorial
-<video src="https://public-resource.cdev.shop/invite.compressed.1.mp4" controls="controls">
+<video src="https://cdn.cdev.shop/official/kgDWwJ0vxuxG-.mp4" controls="controls">
 </video>
 
 ## Verbatim
